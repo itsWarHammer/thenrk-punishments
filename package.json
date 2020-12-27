@@ -1,0 +1,12 @@
+{
+  "name": "punishments",
+  "version": "1.0.0",
+  "description": "Sends Punishments",
+  "main": "Punishment.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node Punishment.js"
+  },
+  "author": "itsWarHammer",
+  "license": "ISC"
+}
