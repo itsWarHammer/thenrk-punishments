@@ -4,8 +4,8 @@
   "description": "Sends Punishments",
   "main": "Punishment.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-    "start": "node Punishment.js"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/Punishment.js"
   },
   "author": "itsWarHammer",
   "license": "ISC"
