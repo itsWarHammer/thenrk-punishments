@@ -8,5 +8,8 @@
     "start": "node ./src/Punishment.js"
   },
   "author": "itsWarHammer",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
 }
