@@ -22,5 +22,5 @@ client.on("message", (m) => {
             .then(ch => ch.send(m.embeds));
     }                                                  
 })
-
-client.login('Nzc3MTgxMzk1MzkzOTcwMTc2.X6_skw.izWoFDV8pqnXXFaEmTPjPohHOPc');
+process.env.BOT_TOKEN
+client.login(process.env.BOT_TOKEN);
